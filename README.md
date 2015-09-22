@@ -6,7 +6,7 @@ This system is designed to help the user to register a city and see the cities w
 
 Installation Steps : 
 
-1.Dowload the directory "Coding-Task" on to your local directory supported by webservers ( For example if using IIS server place it in inetpub -> wwwroot ,if using ftp client place it in public_html)
+1.Download the directory "Coding-Task" on to your local directory supported by webservers ( For example if using IIS server place it in inetpub -> wwwroot ,if using ftp client place it in public_html)
 
 2.Then run the "DB_Creation.php" file in web broswer supported by your web server. 
 
